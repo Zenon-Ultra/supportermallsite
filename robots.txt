@@ -1,0 +1,2 @@
+User-agent: *Allow:/
+Sitemap: https://supporter-mall.kro.kr/sitemap.xml

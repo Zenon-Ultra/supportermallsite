@@ -1,0 +1,43 @@
+.notice_title {
+    color: white;
+    padding-left: 50px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.gstitle {
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.8);
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.gsbox {
+    position: relative;
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    padding-top: 30px;
+}
+
+.gsbox .box1 {
+    width: 50%;
+    padding: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin: 5px;
+}
+
+.gsbox .box1 .title {
+    padding: 0px;
+    padding-left: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.gsbox .box1 .reason {
+    color: rgb(212, 212, 212);
+    padding-left: 20px;
+}
